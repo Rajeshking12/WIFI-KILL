@@ -4,5 +4,5 @@ NOW A DAYS,LAPTOPS DOES NT HAVE WIFI TURN OFF/ON MANUAL SWITCH ,SO BECAUSE OF TH
  
  lETS BEGIN:
  1)OPEN CMD AS RUN AD ADMINSTRATOR ONLY
- TYPE "netstop wlansvc" #to stop your wifi driver
-    similarly as to start again "netstart wlansvc"
+ TYPE "net stop wlansvc" #to stop your wifi driver
+    similarly as to start again "net start wlansvc" 
